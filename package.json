@@ -1,0 +1,25 @@
+{
+  "name": "ncf.fi",
+  "version": "0.1.0",
+  "description": "Ncf.fi 2014 template",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Glenf/ncf.fi.git"
+  },
+  "author": "Tommi Pääkkö",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Glenf/ncf.fi/issues"
+  },
+  "homepage": "https://github.com/Glenf/ncf.fi"
+}
